@@ -20,6 +20,11 @@
     <properties>
         <java.version>8</java.version>
         <junit.version>5.5.1</junit.version>
+             
+             <sonar.projectKey>mayarazacarias_programacaoweb</sonar.projectKey>
+                  <sonar.organization>mayarazacarias</sonar.organization>
+                   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                  <sonar.login>1a29e9c38be9bf07d56e20cbd7fcc7641bc38dfc</sonar.login>
     </properties>
 
     <dependencies>
